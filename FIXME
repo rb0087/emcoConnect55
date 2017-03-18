@@ -1,0 +1,10 @@
+Changes/fixes to be made to PCB
+-Ground unterminated leads for signal to spindle control board
+-Use a cat6 jack for rj45
+-Fix mounting hole spacing so that it's a regular grid, not upper right at 4.225 and bottom right at 4.2
+-Move ESS 1 and ESS 2 labels further from pins so that they aren't hidden under connector
+-Verify the type of RJ45 jack so that the pins actually line up with the one purchased
+-Probably use 820ohm or similar instead of 750 ohm because 24V is actually 28. 
+-Flip 5V connector
+-Flip x111
+-more clearance between x114 and coolant
